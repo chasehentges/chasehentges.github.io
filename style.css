@@ -153,7 +153,6 @@ td:nth-child(1) {
 	}
 	.bts img {
 		margin-bottom: 0;
-		width: 33%;
 		width: calc(33.333% - 13.333px);
 	}
 }
