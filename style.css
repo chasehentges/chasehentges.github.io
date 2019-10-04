@@ -140,6 +140,7 @@ td:nth-child(1) {
 .bts {
 	display: flex;
 	justify-content: space-between;
+	align-items: flex-start;
 }
 .bts img {
 	margin-bottom: 0;
